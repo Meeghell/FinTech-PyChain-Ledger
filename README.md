@@ -14,9 +14,9 @@ PyChain Ledger is a blockchain-based ledger system developed to facilitate finan
 
 ## Installation
 
-1. **Clone the Repository:**bash
+1. **Clone the Repository:** 
     
-    `git clone <repository-url> cd pychain-ledger`
+    `git clone <repository-url>`
     
 2. **Install Dependencies:**  
     Ensure you have Python installed, then install the required packages:bash
